@@ -1,2 +1,2 @@
-MyFirstProg.java
- MyFirstProg
+ru/newprog/rft/myFirstProg.java
+ ru.newprog.rft.myFirstProg
